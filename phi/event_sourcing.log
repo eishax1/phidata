@@ -1,0 +1,6 @@
+2024-09-05 23:15:57,278 - __main__ - INFO - Logging is set up and running.
+2024-09-05 23:15:57,290 - __main__ - INFO - Starting execution for _run
+2024-09-05 23:15:57,290 - __main__ - INFO - Execution of _run completed successfully.
+2024-09-05 23:15:57,291 - __main__ - DEBUG - *********** Assistant Run Start: 12345 ***********
+2024-09-05 23:15:57,291 - __main__ - INFO - Received prompt from user for run: What is the weather today?
+2024-09-05 23:15:57,291 - __main__ - DEBUG - Loaded memory
